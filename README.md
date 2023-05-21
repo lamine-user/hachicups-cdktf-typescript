@@ -30,3 +30,5 @@ This repository contains a demo of how to provision the hachicup education infra
 # @ YASSIR
 Thank's for the intresting & fun challenge.
 `platform@yassir.com`.
+
+# Adding test commit from mac osX
